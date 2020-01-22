@@ -1,2 +1,7 @@
 # Aureole
-quick create http project
+> quick create http project
+
+
+### How to use it
+
+    
