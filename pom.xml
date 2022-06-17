@@ -10,7 +10,7 @@
 
     <properties>
         <okhttp3>3.9.0</okhttp3>
-        <fastJson>1.2.39</fastJson>
+        <fastJson>1.2.83</fastJson>
         <apache-lang>3.6</apache-lang>
         <jsoup>1.8.3</jsoup>
 
