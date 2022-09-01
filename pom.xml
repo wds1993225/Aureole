@@ -12,7 +12,7 @@
         <okhttp3>3.9.0</okhttp3>
         <fastJson>1.2.39</fastJson>
         <apache-lang>3.6</apache-lang>
-        <jsoup>1.8.3</jsoup>
+        <jsoup>1.15.3</jsoup>
 
         <log4j>2.9.1</log4j>
         <slf4j>1.7.21</slf4j>
